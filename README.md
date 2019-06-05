@@ -1,0 +1,2 @@
+# Learning TensorFlow for GANs
+Learn TensorFlow from official [TensorFlow-tutorials](https://www.tensorflow.org/tutorials) and implement a DCGAN with [oReilly tutorials](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners). Add minimalistic GAN implementation of [V. Belagiannis](https://github.com/bazilas/minimal-gan) using [TensorFlow-Slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim) for further insights in GAN training.
